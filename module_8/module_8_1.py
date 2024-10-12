@@ -1,10 +1,13 @@
 def add_everything_up(a,b):
     try:
         result = a+b
-    except TypeError:
-        print(str(a)+str(b))
+    except TypeError as exc:
+        result= str(a) + str(b)
+        return result
+
     else:
-        print(a+b)
+        result = a+b
+        return result
 
 
 
