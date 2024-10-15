@@ -4,23 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5f8d891-e53e-4fc9-86e1-f1c54a3633fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module5/atribute.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module5/homeworknames.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module5/homeworkoverwork.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module5/homrworkmetod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module6/hard5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module6/hasled.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module6/history.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module6/nasledie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module6/new.py" afterDir="false" />
+    <list default="true" id="b5f8d891-e53e-4fc9-86e1-f1c54a3633fc" name="Changes" comment="module_3_hard.py">
+      <change afterPath="$PROJECT_DIR$/modul_1_3/home1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_1_3/home_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_1_3/home_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_1_3/home_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_1_3/home_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_1_3/home_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module6/module6hard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module7/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module7/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module7/module_7_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module7/products.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module7/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module7/test1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module7/test_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_3_1/home_3_hard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_8/module_8_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module7/module_7_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module7/module_7_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,24 +50,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.atribute.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hasled.executor&quot;: &quot;Run&quot;,
-    &quot;Python.history.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homeworknames.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homeworkoverwork.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homrworkmetod.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.nasledie.executor&quot;: &quot;Run&quot;,
-    &quot;Python.new.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.atribute.executor": "Run",
+    "Python.hasled.executor": "Run",
+    "Python.history.executor": "Run",
+    "Python.home1.executor": "Run",
+    "Python.home_2.executor": "Run",
+    "Python.home_2_2.executor": "Run",
+    "Python.home_2_3.executor": "Run",
+    "Python.home_3.executor": "Run",
+    "Python.home_3_1.executor": "Run",
+    "Python.home_3_4.executor": "Run",
+    "Python.home_3_hard.executor": "Debug",
+    "Python.home_4.executor": "Run",
+    "Python.home_5.executor": "Run",
+    "Python.home_6.executor": "Run",
+    "Python.homeworkdiction.executor": "Run",
+    "Python.homeworkhard3.executor": "Run",
+    "Python.homeworknames.executor": "Run",
+    "Python.homeworkoverwork.executor": "Run",
+    "Python.homeworkprog.executor": "Run",
+    "Python.homeworkrecurs.executor": "Run",
+    "Python.homeworkrusp.executor": "Run",
+    "Python.homrworkmetod.executor": "Run",
+    "Python.horse.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.module6hard.executor": "Run",
+    "Python.module_3_hard.executor": "Run",
+    "Python.module_7_1.executor": "Run",
+    "Python.module_7_2.executor": "Run",
+    "Python.module_7_3.executor": "Run",
+    "Python.module_7_4.executor": "Run",
+    "Python.module_7_5.executor": "Run",
+    "Python.module_7_6.executor": "Run",
+    "Python.module_8_1.executor": "Run",
+    "Python.module_8_2.executor": "Run",
+    "Python.nasledie.executor": "Run",
+    "Python.new.executor": "Run",
+    "Python.nomeworknamesfun.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject2" />
@@ -106,10 +136,173 @@
       <option name="presentableId" value="Default" />
       <updated>1718788272085</updated>
     </task>
+    <task id="LOCAL-00001" summary="homeworks">
+      <option name="closed" value="true" />
+      <created>1722523239195</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722523239195</updated>
+    </task>
+    <task id="LOCAL-00002" summary="homeworks">
+      <option name="closed" value="true" />
+      <created>1722698564945</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722698564946</updated>
+    </task>
+    <task id="LOCAL-00003" summary="homework">
+      <option name="closed" value="true" />
+      <created>1724255406169</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724255406169</updated>
+    </task>
+    <task id="LOCAL-00004" summary="module_7_2.py">
+      <option name="closed" value="true" />
+      <created>1724587242912</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724587242912</updated>
+    </task>
+    <task id="LOCAL-00005" summary="homework">
+      <option name="closed" value="true" />
+      <created>1728287639638</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728287639638</updated>
+    </task>
+    <task id="LOCAL-00006" summary="homework_2_3">
+      <option name="closed" value="true" />
+      <created>1728290268442</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728290268442</updated>
+    </task>
+    <task id="LOCAL-00007" summary="homework_3_1">
+      <option name="closed" value="true" />
+      <created>1728296028231</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728296028231</updated>
+    </task>
+    <task id="LOCAL-00008" summary="home_3_4.py">
+      <option name="closed" value="true" />
+      <created>1728298897172</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728298897172</updated>
+    </task>
+    <task id="LOCAL-00009" summary="module_7_4.py">
+      <option name="closed" value="true" />
+      <created>1728379429603</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1728379429603</updated>
+    </task>
+    <task id="LOCAL-00010" summary="module_7_5.py">
+      <option name="closed" value="true" />
+      <created>1728401283641</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728401283641</updated>
+    </task>
+    <task id="LOCAL-00011" summary="module_7_6.py">
+      <option name="closed" value="true" />
+      <created>1728568559573</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1728568559573</updated>
+    </task>
+    <task id="LOCAL-00012" summary="module_8_1.py">
+      <option name="closed" value="true" />
+      <created>1728725882037</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1728725882037</updated>
+    </task>
+    <task id="LOCAL-00013" summary="module_8_1.py">
+      <option name="closed" value="true" />
+      <created>1728742166293</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1728742166293</updated>
+    </task>
+    <task id="LOCAL-00014" summary="module_3_hard.py">
+      <option name="closed" value="true" />
+      <created>1729007268475</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1729007268475</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="homeworks" />
+    <MESSAGE value="module_7_2.py" />
+    <MESSAGE value="homework" />
+    <MESSAGE value="homework_2_3" />
+    <MESSAGE value="homework_3_1" />
+    <MESSAGE value="home_3_4.py" />
+    <MESSAGE value="module_7_4.py" />
+    <MESSAGE value="module_7_5.py" />
+    <MESSAGE value="module_7_6.py" />
+    <MESSAGE value="module_8_1.py" />
+    <MESSAGE value="module_3_hard.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="module_3_hard.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

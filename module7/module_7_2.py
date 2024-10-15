@@ -7,10 +7,7 @@ def custom_write(file_name, strings):
 
     strings_position = {}
     file = open(file_name, 'w', encoding='UTF-8')
-    #print(file.tell())
-    #for i in strings:
-        #strings_position[(strings.index(i) + 1, file.tell())] = i
-        #file.write(f'{i}\n')
+
     for i, string in enumerate(strings):
         strings_position[(i + 1, file.tell())] = string
         file.write(f'{string}\n')
